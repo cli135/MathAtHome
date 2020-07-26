@@ -11,7 +11,7 @@ There is currently no URL (I do not have the website up). However, the HTML and 
 
 
 How can I participate in the math practice?
-Complete 2 math questions per day on each of the following sites:
+Complete 2 math questions per day on each of the following three sites:
 https://artofproblemsolving.com/mathcounts_trainer
 https://artofproblemsolving.com/alcumus
 https://artofproblemsolving.com/community/c3413_amc_8
