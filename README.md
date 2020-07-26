@@ -1,6 +1,6 @@
 What is Math at Home?
 
-Math at Home is a website with math links for middle school students. Students can learn from home during the pandemic.
+Math at Home is a website with math links for middle schoolers. These links can help students learn at home during the pandemic.
 
 
 
