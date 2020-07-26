@@ -1,7 +1,9 @@
 What is Math at Home?
+
 Math at Home is a website with math links for middle school students. Students can learn from home during the pandemic.
 
 What is the website's URL?
+
 There is currently no URL (I do not have the website up). However, the HTML and CSS files are in this repository.
 
 How can I participate in the math practice?
